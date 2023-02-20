@@ -1,0 +1,13 @@
+elasticsearch:
+  address: "http://10.128.0.3:9200"
+  username: "zekexu"
+  password: "zekexu"
+
+gcs:
+  bucket: "qi-around"
+
+token:
+  secret: "secret"
+
+
+
